@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendGyakProject", "BackendGyakProject\BackendGyakProject.csproj", "{AFB38933-A30F-4108-9DCD-5D9DEFF7B71B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFB38933-A30F-4108-9DCD-5D9DEFF7B71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB38933-A30F-4108-9DCD-5D9DEFF7B71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB38933-A30F-4108-9DCD-5D9DEFF7B71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB38933-A30F-4108-9DCD-5D9DEFF7B71B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97FCB8A1-5113-4003-80BE-886D808CCCBE}
+	EndGlobalSection
+EndGlobal
